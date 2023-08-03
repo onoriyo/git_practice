@@ -7,6 +7,9 @@ def func2():
 def func3():
     print('func3 in func2 in hello.py')
 
+def func4():
+    print('func4 in hello.py')
+
 def main():
     func1()
     func2()
